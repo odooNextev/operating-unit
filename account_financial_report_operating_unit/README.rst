@@ -1,5 +1,5 @@
 ==========================================
-Accounting Fincnaial Report Operating Unit
+Accounting Financial Report Operating Unit
 ==========================================
 
 .. 
