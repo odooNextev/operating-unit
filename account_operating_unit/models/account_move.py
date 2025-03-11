@@ -120,6 +120,7 @@ class AccountMoveLine(models.Model):
             "date": max(self.mapped("date")),
             "ref": "Inter OU Balancing",
             "company_id": journal.company_id.id,
+            "move_type": "entry",
         }
         return move_vals
 
