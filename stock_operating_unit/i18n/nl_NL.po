@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-06-26 10:36+0000\n"
+"PO-Revision-Date: 2025-06-26 13:25+0000\n"
 "Last-Translator: Bram Buijs <b.buijs@onestein.nl>\n"
 "Language-Team: none\n"
 "Language: nl_NL\n"
@@ -129,15 +129,13 @@ msgstr "Doellocatie Bedrijfseenheid"
 
 #. module: stock_operating_unit
 #: model:ir.model,name:stock_operating_unit.model_stock_location
-#, fuzzy
 msgid "Inventory Locations"
 msgstr "Voorraadlocaties"
 
 #. module: stock_operating_unit
 #: model:ir.model,name:stock_operating_unit.model_stock_warehouse_orderpoint
-#, fuzzy
 msgid "Minimum Inventory Rule"
-msgstr "Minimale voorraad regel"
+msgstr "Aanvulopdrachtregel"
 
 #. module: stock_operating_unit
 #: model:ir.model.fields,field_description:stock_operating_unit.field_stock_location__operating_unit_id
