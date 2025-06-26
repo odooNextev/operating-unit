@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-06-26 09:59+0000\n"
+"PO-Revision-Date: 2025-06-26 13:25+0000\n"
 "Last-Translator: Bram Buijs <b.buijs@onestein.nl>\n"
 "Language-Team: none\n"
 "Language: nl_NL\n"
@@ -27,7 +27,6 @@ msgstr "Ga naar de productcategorieën"
 #: model:ir.model.fields,field_description:product_operating_unit.field_product_category__operating_unit_ids
 #: model:ir.model.fields,field_description:product_operating_unit.field_product_product__operating_unit_ids
 #: model:ir.model.fields,field_description:product_operating_unit.field_product_template__operating_unit_ids
-#, fuzzy
 msgid "Operating Units"
 msgstr "Bedrijfseeinheid"
 
@@ -40,7 +39,6 @@ msgstr "Product"
 #: model:ir.model,name:product_operating_unit.model_product_category
 #: model:ir.model.fields,field_description:product_operating_unit.field_product_product__categ_id
 #: model:ir.model.fields,field_description:product_operating_unit.field_product_template__categ_id
-#, fuzzy
 msgid "Product Category"
 msgstr "Productcategorie"
 
