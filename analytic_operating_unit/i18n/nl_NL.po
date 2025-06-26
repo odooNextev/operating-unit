@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-06-26 07:20+0000\n"
+"PO-Revision-Date: 2025-06-26 13:25+0000\n"
 "Last-Translator: Bram Buijs <b.buijs@onestein.nl>\n"
 "Language-Team: none\n"
 "Language: nl_NL\n"
@@ -23,6 +23,5 @@ msgstr "Kostenplaats"
 
 #. module: analytic_operating_unit
 #: model:ir.model.fields,field_description:analytic_operating_unit.field_account_analytic_account__operating_unit_ids
-#, fuzzy
 msgid "Operating Units"
 msgstr "Bedrijfseeinheid"
