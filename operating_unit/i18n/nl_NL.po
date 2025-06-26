@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-06-26 09:56+0000\n"
+"PO-Revision-Date: 2025-06-26 13:25+0000\n"
 "Last-Translator: Bram Buijs <b.buijs@onestein.nl>\n"
 "Language-Team: none\n"
 "Language: nl_NL\n"
@@ -64,7 +64,6 @@ msgstr "Aangemaakt door"
 
 #. module: operating_unit
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit__create_date
-#, fuzzy
 msgid "Created on"
 msgstr "Gemaakt op"
 
@@ -75,7 +74,6 @@ msgstr "Standaard operationele eenheid"
 
 #. module: operating_unit
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit__display_name
-#, fuzzy
 msgid "Display Name"
 msgstr "Weergave Naam"
 
@@ -86,19 +84,16 @@ msgstr "ID"
 
 #. module: operating_unit
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit____last_update
-#, fuzzy
 msgid "Last Modified on"
 msgstr "Laatste wijziging op"
 
 #. module: operating_unit
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit__write_uid
-#, fuzzy
 msgid "Last Updated by"
 msgstr "Laatst bewerkt door"
 
 #. module: operating_unit
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit__write_date
-#, fuzzy
 msgid "Last Updated on"
 msgstr "Laatst Bijgewerkt op"
 
@@ -121,7 +116,6 @@ msgstr "Naam"
 #: model:ir.model,name:operating_unit.model_operating_unit
 #: model_terms:ir.ui.view,arch_db:operating_unit.view_operating_unit_form
 #: model_terms:ir.ui.view,arch_db:operating_unit.view_operating_unit_search
-#, fuzzy
 msgid "Operating Unit"
 msgstr "Bedrijfseenheid"
 
@@ -135,7 +129,6 @@ msgstr "Alleen lezen operationele eenheid"
 #: model:ir.model.fields,field_description:operating_unit.field_res_users__assigned_operating_unit_ids
 #: model:ir.ui.menu,name:operating_unit.menu_action_operating_unit_tree
 #: model_terms:ir.ui.view,arch_db:operating_unit.view_users_form
-#, fuzzy
 msgid "Operating Units"
 msgstr "Bedrijfseeinheid"
 
