@@ -6,7 +6,7 @@
     "summary": "Default user operating unit on sales and pickings",
     "author": "Nextev",
     "license": "LGPL-3",
-    "website": "https://www.nextev.it",
+    "website": "https://github.com/OCA/operating-unit",
     "category": "Sales Management",
     "depends": ["sale_operating_unit", "stock_operating_unit"],
     "data": [
