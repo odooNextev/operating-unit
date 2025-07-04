@@ -13,7 +13,6 @@
                 <field
                     name="operating_unit_ids"
                     groups="operating_unit.group_multi_operating_unit"
-                    domain="[('company_id','=', company_id)]"
                     options="{'no_create': True}"
                     widget="many2many_tags"
                 />
